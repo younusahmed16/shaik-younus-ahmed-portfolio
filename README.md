@@ -5,7 +5,7 @@ A premium, modern, and highly professional personal portfolio website designed f
 ## 📸 Preview
 
 *(Add your screenshot here)*
-![Portfolio Preview]("C:\Users\younu\OneDrive\Pictures\Screenshots 1\Screenshot 2026-06-09 213112.png")
+![Portfolio Preview]("Screenshot 2026-06-09 213112.png")
 
 > **Note:** Replace `preview-placeholder.png` with an actual screenshot of your portfolio.
 
