@@ -5,7 +5,8 @@ A premium, modern, and highly professional personal portfolio website designed f
 ## 📸 Preview
 
 *(Add your screenshot here)*
-![Portfolio Preview]("Screenshot 2026-06-09 213112.png")
+<img width="1900" height="867" alt="Screenshot 2026-06-09 213112" src="https://github.com/user-attachments/assets/5923f465-f9f6-465e-8a92-78dd126272c7" />
+
 
 > **Note:** Replace `preview-placeholder.png` with an actual screenshot of your portfolio.
 
